@@ -69,7 +69,7 @@ body{
 	padding-bottom: 16px;
 	padding-left: 0;
 	overflow-x: hidden;
-	background-image: url("../img/bg.png");
+	background-image: url("bg.png");
 	background-color: #000;
 }
 
@@ -133,7 +133,7 @@ header div.logo a{
 	width: 282px;
 	height: 184px;
 	display: block;
-	background-image: url("../img/logo.png");
+	background-image: url("logo.png");
 }
 
 header div.phoneNumber{
@@ -366,7 +366,7 @@ div.mainContent div.brands{
 	border-bottom: 1px solid #5c5c5c;
 	border-left: 1px solid #5c5c5c;
 	background-color: #0a0a0a;
-	background-image: url("../img/brand_bg.png");
+	background-image: url("brand_bg.png");
 	background-repeat: repeat-x;
 	box-sizing: border-box;
 	padding-top: 8px;
@@ -490,7 +490,7 @@ div.mainContent div.locationsArea div.rightLocations div.listContainer ul li a:h
 div.mainContent div.locationsArea div.leftImage{
 	height: 124px;
 	width: 174px;
-	background-image: url("../img/brothers.jpg");
+	background-image: url("brothers.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -781,20 +781,20 @@ div.rightLocations h2{
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){
 	body{
-		background-image: url("../img/bg@2x.jpg");
+		background-image: url("bg@2x.jpg");
 	}
 
 	header div.logo a{
-		background-image: url("../img/logo@2x.png");
+		background-image: url("logo@2x.png");
 		background-size: 282px 184px;
 	}
 
 	div.mainContent div.locationsArea div.leftImage{
-		background-image: url("../img/brothers@2x.jpg");
+		background-image: url("brothers@2x.jpg");
 	}
 
 	div.mainContent div.locationsArea div.rightLocations{
-		background-image: url("../img/states@2x.png");
+		background-image: url("states@2x.png");
 	}
 }
 
